@@ -13,7 +13,7 @@ function Header() {
         <h1 className="font-Rubik text-[45px] max-md:text-[40px] pt-8">
           ¡Hola!,Soy Santiago Suescun
         </h1>
-        <p className="font-sans text-3xl max-md:py-5 w-[80%] max-md:w-full mx-auto text-gray-700 ">
+        <p className="font-sans text-xl md:text-3xl max-md:py-5 w-[80%] max-md:w-full mx-auto text-gray-700 ">
           Desarrollo sitios web y escribo articulos sobre programacion tambien
           hago mantenimientos de celulares y computadores.
         </p>

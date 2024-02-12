@@ -5,7 +5,7 @@ function Project() {
   return (
     <section>
       <h1 className="font-Rubik text-4xl text-center pt-32">Mis Proyectos</h1>
-      <p className="text-2xl text-center py-8 text-gray-600">
+      <p className="text-2xl text-center py-8 text-gray-600 max-md:w-[90%] max-md:mx-auto">
         Estos son algunos Proyectos que he creado recientemente
       </p>
 

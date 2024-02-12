@@ -10,7 +10,7 @@ function TestimonioCarousel({img}:testimonioProps) {
       
         <div>
           <img src={img} alt="img" className="rounded-xl h-[500px] max-md:h-[300px] w-full" />
-          <p className="font-Share text-2xl py-4 w-[90%] mx-auto max-md:text-xl max-md:w-full">
+          <p className="font-Share text-2xl py-4 w-[90%] mx-auto max-md:text-sm max-md:w-full">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt,
             fugiat doloremque. Nemo eius distinctio id commodi odio doloremque
             beatae qui a, accusantium fugit possimus earum pariatur dolor minus
