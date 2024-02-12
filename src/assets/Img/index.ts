@@ -1,0 +1,6 @@
+export{default as header} from "./Header-persona.avif"
+export{default as logo}from "./Logo.avif"
+export{default as persona1}from "./persona1.avif"
+export{default as persona2} from "./persona2.avif"
+export{default as persona3} from "./persona3.avif"
+export {default as Principal}from "./Principal.avif"

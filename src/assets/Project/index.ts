@@ -1,0 +1,6 @@
+export {default as Project1}from "./Project1.avif"
+export {default as Project2}from "./Project2.avif"
+export {default as Project3}from "./Project3.avif"
+export {default as Project4}from "./Project4.avif"
+export {default as Project5}from "./Project5.avif"
+export {default as Project6}from "./Project6.avif"
